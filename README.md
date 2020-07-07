@@ -1,6 +1,6 @@
 Code-Along-Node-Mongo-Crud
 
-1. Create a Mongo DB in https://www.mongodb.com/
+1. Create a Cluster in https://www.mongodb.com/
 
 2. Change the Mongo Connection URL String in config/db.js
 
